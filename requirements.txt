@@ -1,0 +1,14 @@
+# Core Agent Framework
+langgraph
+langchain
+openai
+pydantic
+
+# Utilities
+python-dotenv
+requests
+
+# Development and Testing
+pytest
+flake8
+black
